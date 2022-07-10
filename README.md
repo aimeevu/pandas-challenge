@@ -1,5 +1,5 @@
 # pandas-challenge
-##GA Tech Data Science and Analytics Boot Camp Module 4
+## GA Tech Data Science and Analytics Boot Camp Module 4
 ### Description: PyCitySchools
 This assignment utilizes Pandas and Jupyter Notebook to create a report displaying trends using data as it relates to a hypothetical city school district in order to provide assistance in strategic decisions.
 
